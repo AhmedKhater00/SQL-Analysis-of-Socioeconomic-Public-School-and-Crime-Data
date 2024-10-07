@@ -107,11 +107,11 @@ Below are the SQL query results and visual representations for each aspect of th
    *A table listing the top 5 community areas by average college enrollment.*
 
 9. **Community Area with Lowest School Safety Score**  
-   ![Lowest Safety Score Community Area](https://github.com/AhmedKhater00/SQL-Analysis-of-Socioeconomic-Public-School-and-Crime-Data/blob/main/Community%20Area%20with%20Lowest%20School%20Safety%20Score.png)  
+   ![Lowest Safety Score Community Area](https://github.com/AhmedKhater00/SQL-Analysis-of-Socioeconomic-Public-School-and-Crime-Data/blob/main/Community%20Area%20with%20Lowest%20School%20Safety%20Score__.png)  
    *A table showing the community area with the lowest school safety score.*
 
 10. **Per Capita Income and School Safety Score**  
-    ![Per Capita Income and Safety Score](1-	https://github.com/AhmedKhater00/SQL-Analysis-of-Socioeconomic-Public-School-and-Crime-Data/blob/main/Per%20Capita%20Income%20and%20School%20Safety%20Score.png)  
+    ![Per Capita Income and Safety Score](https://github.com/AhmedKhater00/SQL-Analysis-of-Socioeconomic-Public-School-and-Crime-Data/blob/main/Per%20Capita%20Income%20and%20School%20Safety%20Score.png)  
     *A table showing the per capita income of the community area with a school safety score of 1.*
 
 ## 🔍 Conclusion
